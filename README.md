@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Hope Pose - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Hope">
+<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Hope Pose - self learning code, Tedx Speaker and Microsoftie alongside a photo of Hope">
 
 <!-- Social Links -->
 
