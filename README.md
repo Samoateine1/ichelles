@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+<img src="https://github.com/msandfor/msandfor/blob/main/assets/gh-header-image.gif" alt="banner that says Hope Pose - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Hope">
 
 <!-- Social Links -->
 
@@ -30,16 +30,16 @@ Here are some ideas to get you started:
   
   <a href="https://instagram.com/codess_aus/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hopepose"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/codess_aus"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>
+
 </p>
 
 <!-- Profile Blurb -->
-
+Not a fan but tryin to be that gig as my arse is too boring to never say never, err.
 
 
 ## Technical Certifications
 
-These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/codess-aus
+These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com
 
 
 
